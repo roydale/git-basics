@@ -1,1 +1,1 @@
-console.log("Hello, Git Basics!");
+alert("uh-oh!");
